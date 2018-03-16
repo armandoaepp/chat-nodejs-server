@@ -1,0 +1,15 @@
+{
+  "name": "chat-nodejs",
+  "version": "1.0.0",
+  "description": "\"Chat nodejs y angular 4\"",
+  "main": "server.js",
+  "scripts": {
+     "start": "node server.js"
+  },
+  "author": "@armandoaepp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}
